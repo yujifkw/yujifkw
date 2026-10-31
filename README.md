@@ -54,12 +54,13 @@ Designer gráfico e de motion que também escreve código, atuando na fronteira 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yujifkw&show_icons=true&bg_color=1a0b21&title_color=D9A7C7&text_color=E8C8D0&icon_color=B57BC4&border_color=3b1747&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujifkw&layout=compact&langs_count=8&hide=jupyter%20notebook&bg_color=1a0b21&title_color=D9A7C7&text_color=E8C8D0&border_color=3b1747" alt="top langs" />
-
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yujifkw&background=1a0b21&ring=B57BC4&fire=D9A7C7&currStreakLabel=D9A7C7&currStreakNum=F5E3E8&sideNums=F5E3E8&sideLabels=E8C8D0&dates=9a7aa6&stroke=3b1747&border=3b1747" alt="streak" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/yujifkw/yujifkw/output/github-snake-dark.svg" width="100%" alt="snake" />
 
 </div>
 
